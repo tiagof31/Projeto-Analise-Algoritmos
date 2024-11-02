@@ -76,6 +76,6 @@ O projeto gera arquivos CSV para cada algoritmo de ordenação com dados sobre o
 - Certifique-se de que tanto o Java quanto o Python estejam disponíveis no PATH do sistema para permitir uma execução sem problemas pelo terminal.
 
 ## Autores
-Tiago Farias Rodrigues - 1914187
-Ana Laís Nunes de Vasconcelos - 2216984
-Nós dividimos este projeto, onde cada um ficou responsável por dois dos quatro algoritmos presentes aqui neste projeto, que foi desenvolvido como parte de um curso de computação paralela para entender melhor as vantagens e limitações da paralelização de diferentes tipos de algoritmos de ordenação.
+- Tiago Farias Rodrigues - 1914187
+- Ana Laís Nunes de Vasconcelos - 2216984
+- Nós dividimos este projeto, onde cada um ficou responsável por dois dos quatro algoritmos presentes aqui neste projeto, que foi desenvolvido como parte de um curso de computação paralela para entender melhor as vantagens e limitações da paralelização de diferentes tipos de algoritmos de ordenação.
